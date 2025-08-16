@@ -1,2 +1,3 @@
 # Simple-calculator
 It's a simple calculator that I made in c++ while learning c++ ...
+it uses third party library 
