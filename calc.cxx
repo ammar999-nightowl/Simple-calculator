@@ -75,4 +75,3 @@ void MainWindow::on_clear_pressed()
     ui->lineEdit->clear();
 }
 
-
